@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "/home/eraj/Documents/PERSONAL/flutter_projects/adv_basics/linux",
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true,
+    },
+}
